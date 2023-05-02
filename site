@@ -1,0 +1,1017 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <link rel="pingback" href="https://trualliant.com/xmlrpc.php">
+                            <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            /* WGL CUSTOM TYPOGRAPHY FIX */
+                            WebFontConfig['google'] = {families: ['Nunito:400,600,600,700', 'Poppins:700,600,400,500,600,700', 'Playfair+Display:700italic,']};
+                            /* \ WGL CUSTOM TYPOGRAPHY FIX */
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home-2 - TruAlliant</title>
+	<link rel="canonical" href="https://trualliant.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home-2 - TruAlliant" />
+	<meta property="og:url" content="https://trualliant.com/" />
+	<meta property="og:site_name" content="TruAlliant" />
+	<meta property="article:publisher" content="https://www.facebook.com/TrualliantInc/" />
+	<meta property="article:modified_time" content="2023-03-21T14:54:48+00:00" />
+	<meta property="og:image" content="https://trualliant.com/wp-content/uploads/2023/02/homepage-our-approach-new.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="19 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://trualliant.com/","url":"https://trualliant.com/","name":"Home-2 - TruAlliant","isPartOf":{"@id":"https://trualliant.com/#website"},"about":{"@id":"https://trualliant.com/#organization"},"primaryImageOfPage":{"@id":"https://trualliant.com/#primaryimage"},"image":{"@id":"https://trualliant.com/#primaryimage"},"thumbnailUrl":"https://trualliant.com/wp-content/uploads/2023/02/homepage-our-approach-new.png","datePublished":"2022-12-18T23:41:55+00:00","dateModified":"2023-03-21T14:54:48+00:00","breadcrumb":{"@id":"https://trualliant.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://trualliant.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://trualliant.com/#primaryimage","url":"https://trualliant.com/wp-content/uploads/2023/02/homepage-our-approach-new.png","contentUrl":"https://trualliant.com/wp-content/uploads/2023/02/homepage-our-approach-new.png","width":1080,"height":1080},{"@type":"BreadcrumbList","@id":"https://trualliant.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://trualliant.com/#website","url":"https://trualliant.com/","name":"TruAlliant","description":"Hire Outsourced Talent - BPO Services + Lead Generation","publisher":{"@id":"https://trualliant.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://trualliant.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://trualliant.com/#organization","name":"TruAlliant","url":"https://trualliant.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://trualliant.com/#/schema/logo/image/","url":"https://trualliant.com/wp-content/uploads/2023/01/ta-logo-dark-small-new.png","contentUrl":"https://trualliant.com/wp-content/uploads/2023/01/ta-logo-dark-small-new.png","width":334,"height":68,"caption":"TruAlliant"},"image":{"@id":"https://trualliant.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/TrualliantInc/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="TruAlliant &raquo; Feed" href="https://trualliant.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TruAlliant &raquo; Comments Feed" href="https://trualliant.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/trualliant.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='genesis-blocks-style-css-css' href='https://trualliant.com/wp-content/plugins/genesis-blocks/dist/style-blocks.build.css?ver=1679583906' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://trualliant.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://trualliant.com/wp-includes/css/classic-themes.min.css?ver=6.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://trualliant.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='softlab-default-style-css' href='https://trualliant.com/wp-content/themes/softlab/style.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css' href='https://trualliant.com/wp-content/themes/softlab/fonts/flaticon/flaticon.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_font_awesome_5_shims-css' href='https://trualliant.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_font_awesome_5-css' href='https://trualliant.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swipebox-css' href='https://trualliant.com/wp-content/themes/softlab/js/swipebox/css/swipebox.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='softlab-main-css' href='https://trualliant.com/wp-content/themes/softlab/css/main.min.css?ver=6.2' type='text/css' media='all' />
+<style id='softlab-main-inline-css' type='text/css'>
+body {font-family: Nunito;font-size: 16px;line-height: 1.875;font-weight: 400;color: #4f4e4e;}#comments .commentlist .comment_info .meta-wrapper *,body .widget_categories ul li .post_count,body .widget_product_categories ul li .post_count,body .widget_meta ul li .post_count,body .widget_archive ul li .post_count,.author-info_name,.blog-post_info-wrap > .meta-wrapper *,.softlab_module_message_box .message_content .message_title,.single-team .single_team_page .team-info_item h5 + span,.softlab_module_time_line_vertical .time_line-title{font-family: Nunito;}select,blockquote cite,blockquote cite a,body .footer .select__field:before,ul.wgl-pagination li span,body input[type='text']::placeholder,body input[type='url']::placeholder,body input[type='search']::placeholder,body input[type='email']::placeholder,body input[type='password']::placeholder,body input[type='tel']::placeholder,body input[type='time']::placeholder,select::placeholder,textarea::placeholder,.tagcloud a,.softlab_module_message_box .message_content .message_text,.vc_wp_custommenu .menu .menu-item.current-menu-item > a,.blog-post.format-quote .blog-post_quote-author-pos,.softlab_module_testimonials .testimonials_quote,.recent-posts-widget .meta-wrapper a:hover,.vc_row .vc_toggle .vc_toggle_icon{color: #4f4e4e;}.softlab_module_carousel .slick-prev:after,.softlab_module_carousel .slick-next:after{border-color: #4f4e4e;}.softlab_module_title .external_link .button-read-more {line-height: 1.875;}h1,h2,h3,h4,h5,h6,h1 span,h2 span,h3 span,h4 span,h5 span,h6 span,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.page-header .page-header_title,.blog-post_cats,.column1 .item_title a,.softlab_twitter .twitt_title,.tagcloud-wrapper .title_tags,.strip_template .strip-item a span,.single_team_page .team-single_speaches-info .speech-info_desc span,.shortcode_tab_item_title,.index_number,.primary-nav.footer-menu .menu-item a{font-family: Poppins;font-weight: 700;}#main ol > li:before,#comments .comment-reply-link,blockquote,blockquote:before,input[type="submit"],button,body .widget .widget-title,body .widget_rss ul li .rss-date,label,legend,.wgl-social-share_pages.hovered_style .share_social-title,.meta-wrapper span,.meta-wrapper,.blog-post_text-bg,.author-info_content .author-info_name,.blog-post_link>.link_post,.blog-post_quote-text,.button-read-more,.blog-post_meta_share .share_title,.blog-post_meta-date .date_post span,.custom-header-font,#comments .commentlist .comment_author_says,.comments-title .number-comments,.softlab_module_progress_bar .progress_label,.dropcap,.dropcap-bg,.softlab_module_double_headings,.softlab_module_infobox .infobox_icon_container .infobox_icon_number,.softlab_module_button.wgl_button .wgl_button_link,.softlab_module_pricing_plan .pricing_cur,.softlab_module_pricing_plan .pricing_price .price_decimal,.softlab_module_testimonials .testimonials_item:before,.softlab_module_testimonials .testimonials_status,.mashsb-count .counts,.mashsb-box .mashsb-buttons a .text,.prev-link,.next-link,.vc_row .vc_tta.vc_general.vc_tta-style-accordion_bordered .vc_tta-panel-title>a span,.widget.softlab_widget.softlab_banner-widget .banner-widget_text,.widget.softlab_widget.softlab_banner-widget .banner-widget_text_bg,.widget.softlab_widget.softlab_banner-widget .banner-widget_button,body .widget .widget-title .widget-title_wrapper:before,.blog-post_meta-categories a,.blog-post_meta-categories span,.blog-post_meta-date .date_post,.softlab_module_counter .counter_title,.softlab_module_videobox .title,.softlab_module_progress_bar .progress_value,.softlab_module_progress_bar .progress_units,.softlab_module_counter .counter_value_wrapper,.softlab_module_counter .counter_value_placeholder,.countdown-section .countdown-amount,.heading_subtitle,.info_prev-link_wrapper a,.info_next-link_wrapper a,.single_meta .single_info-share_social-wpapper > span.share_title,.single_team_page .team-single_speaches-info .speech-info_day,.single_team_page .team-info_wrapper .team-info_item,.wgl_portfolio_item-meta .post_cats,.portfolio_info_item-info_desc h5,.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta-tabs .vc_tta-tabs-list .vc_tta-tab > a,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta-tabs .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading a .vc_tta-title-text,.wgl_timetabs .timetabs_headings .wgl_tab .tab_title,.single_info-share_social-wpapper > span,.single-portfolio .wgl_portfolio_item-meta,.wgl_portfolio_item-cats,.wgl-pagination .page-numbers,.wpb-js-composer .wgl-container .vc_chart.vc_round-chart[data-vc-legend="1"] .vc_chart-legend li,.softlab_module_testimonials .testimonials_position,.softlab_module_pricing_plan .pricing_plan_wrap .pricing_price_wrap,.softlab_module_ico_progress .progress_value_completed,.softlab_module_ico_progress .progress_value_min,.softlab_module_ico_progress .progress_value_max,.softlab_module_ico_progress .progress_point{font-family: Poppins;}.banner_404,.load_more_item,.softlab_module_time_line_horizontal .tlh_date,.wgl_portfolio_single-item .tagcloud .tagcloud_desc,.wgl_timetabs .timetabs_data .timetabs_item .item_time,.wgl_timetabs .timetabs_data .timetabs_item .content-wrapper .item_title,.wpb-js-composer .wgl-container .vc_row .vc_pie_chart .vc_pie_chart_value,.isotope-filter a{font-family: Poppins;color: #161616;}#main .widget_recent_comments > ul > li:before,body .footer select option,blockquote,h1,h2,h3,h4,h5,h6,h1 span,h2 span,h3 span,h4 span,h5 span,h6 span,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,button,h3#reply-title a,.prev-link-info_wrapper,.next-link-info_wrapper,.single_meta strong,.header_search.search_standard .header_search-field .search-form:after,.widget_product_search .woocommerce-product-search:after,.blog-posts .meta-wrapper a:hover,.meta-wrapper a:hover,.wgl-likes:hover .sl-count,.share_post-container:hover > a,.widget.softlab_widget.softlab_banner-widget .banner-widget_text,.page-header_breadcrumbs .breadcrumbs a:hover,.page-header_breadcrumbs .breadcrumbs span.current,.calendar_wrap tbody,.comment_author_says,.comment_author_says a,.custom-header-color,.single_meta .blog-post_share-wrap > span.share_title,.single_post_info.post_info .wgl-likes .sl-count,.softlab_module_counter .counter_title,.single_meta .single_info-share_social-wpapper > span.share_title,.softlab_module_double_headings .heading_title,.softlab_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_name,.softlab_module_progress_bar .progress_label,.softlab_module_pricing_plan .pricing_plan_wrap .pricing_content > ul > li > b,.tagcloud-wrapper .title_tags,body .widget_wgl_posts .recent-posts-widget .post_title a,.item_title a,.single_info-share_social-wpapper > span,.wgl_module_title.item_title .carousel_arrows a span:after,.wgl_module_team.info_under_image .team-department,body .widget .widget-title .widget-title_wrapper,.softlab_module_testimonials .testimonials_quote,.softlab_module_social .soc_icon,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title,.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_color_check.vc_toggle_active .vc_toggle_title .vc_toggle_icon,.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_title,.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_title,.wgl_portfolio_item-wrapper .portfolio_link,.page_404_wrapper .softlab_404_button .wgl_button_link,ul.wp-block-archives.wp-block-archives-list li a,ul.wp-block-categories.wp-block-categories-list li a,ul.wp-block-latest-posts li a{color: #161616;}.softlab_module_title .carousel_arrows a span{background: #161616;}.softlab_module_infobox.infobox_alignment_left.title_divider .infobox_title:before,.softlab_module_infobox.infobox_alignment_right.title_divider .infobox_title:before{background-color: #161616;} .softlab_module_title .carousel_arrows a span:before{border-color: #161616;}.dbl_font{font-family: Playfair Display !important;font-weight: 700 !important;font-style: italic !important;font-size: inherit;color: #15b1d7 !important;}.wgl-theme-header .wgl-sticky-header .header_search{height: 100px !important;}#scroll_up {background-color: #ffffff;color: #03749c;}.primary-nav>div>ul,.primary-nav>ul,.sitepress_container > .wpml-ls li,.primary-nav ul li.mega-menu-links > ul > li{font-family: Poppins;font-weight: 600;line-height: 30px;font-size: 16px;}.primary-nav ul li ul,.wpml-ls,.sitepress_container > .wpml-ls ul ul li,.primary-nav ul li div.mega-menu-container{font-family: Nunito;font-weight: 600;line-height: 30px;font-size: 16px;}.wgl-theme-header .header_search-field,.primary-nav ul li ul,.primary-nav ul li div.mega-menu-container,.wgl-theme-header .woo_mini_cart,.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu{background-color: rgba(255,255,255,1);color: #313131;}.mobile_nav_wrapper,.wgl-menu_outer,.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul{background-color: rgba(255,255,255,1);color: #000000;}a,.mobile_nav_wrapper .primary-nav ul li ul .menu-item.current-menu-item > a,.mobile_nav_wrapper .primary-nav ul ul li.menu-item.current-menu-ancestor > a,.primary-nav > ul > li > a > span:before,.primary-nav ul li ul li.current-menu-ancestor.current-menu-parent > a > span:before,.primary-nav ul li ul li.current-menu-ancestor.current-menu-parent > a:after,.primary-nav ul li ul li.current-menu-ancestor.current-menu-parent > a > span,.primary-nav ul li ul li.current-menu-item > a > span,.primary-nav ul li ul li.current_page_item > a > span,.primary-nav ul li ul li.current-menu-item > a > span:before,.primary-nav ul li ul li.current_page_item > a > span:before,.primary-nav ul li ul li:hover > a > span,.mobile_nav_wrapper .primary-nav > ul > li.current-menu-item > a,.mobile_nav_wrapper .primary-nav > ul > li.current_page_item > a,.mobile_nav_wrapper .primary-nav > ul > li.current-menu-ancestor > a,.mobile_nav_wrapper .primary-nav > ul > li.current-menu-parent > a,.mobile_nav_wrapper .primary-nav > ul > li.current_page_parent > a,.mobile_nav_wrapper .primary-nav > ul > li.current_page_ancestor > a,a:hover .wgl-icon,body ol > li:before,blockquote:before,button,button:focus,button:active,h3#reply-title a:hover,form.post-password-form input[type='submit']:hover,.author-info_social-wrapper,.blog-post_link:before,.blog-post_meta-categories span,.blog-post_quote-text:before,.blog-post_title i,.blog-style-standard .blog-post:hover .blog-post_wrapper .blog-post_meta_info .meta-wrapper span,.blog-post_link>.link_post:hover,#comments .commentlist .comment_info .meta-wrapper .comment-edit-link:hover,.blog-post.format-standard.link .blog-post_title:before,.blog-post_cats span,.blog-post_title a:hover,.blog-post_meta-categories a,.share_post-container,.button-read-more,#comments .comment-reply-link:hover,#comments .comment-reply-link:focus,#comments .comment-reply-link:active,.calendar_wrap thead,.copyright a:hover,.comment_author_says a:hover,.dropcap,.share_post-container .share_social-wpapper ul li .share_post span.fa:hover,.share_link span.fa:hover,.share_post span.fa:hover,.softlab_submit_wrapper:hover > i,.softlab_custom_button i,.softlab_custom_text a,.softlab_module_button a:hover,.softlab_module_counter .counter_icon,.softlab_module_demo_item .di_button a:hover,.softlab_module_demo_item .di_title_wrap a:hover .di_title,.softlab_module_demo_item .di_title-wrap .di_subtitle,.softlab_module_social .soc_icon:hover,.softlab_module_carousel .slick-prev:after,.softlab_module_carousel .slick-next:after,.softlab_twitter a,.softlab_module_testimonials.type_author_top_inline .testimonials_meta_wrap:after,.softlab_module_testimonials .testimonials_status,.softlab_module_flipbox .flipbox_front .flipbox_front_content,.softlab_module_circuit_services .services_subtitle,.softlab_module_services_3 .services_icon_wrapper,.softlab_module_infobox .infobox_icon,.softlab_module_services_4 .services_icon,.softlab_module_services_4:hover .services_number,.load_more_works:hover,.load_more_wrapper .load_more_item:before,.load_more_wrapper:hover .load_more_item,.header_search .header_search-button > i:hover,.header_search-field .search-form:after,.page_404_wrapper .softlab_404_button .wgl_button_link:hover,.mc_form_inside #mc_signup_submit:hover,.single_team_page .team-single_speaches-info .speech-info_desc span,.single_team_page .team-info_wrapper .team-info_item a:hover,.single-member-page .member-icon:hover,.single-member-page .team-link:hover,.single_team_page .team-single_speaches-info .speech-info_day,.single_team_page .team-info_icons a:hover,.single_portfolio-wrapper .portfolio-category:hover,.team-icons .member-icon:hover,.vc_wp_custommenu .menu .menu-item.current-menu-item > a,.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,.wpml-ls a:hover,.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,.wgl-container ul li:before,.wgl_portfolio_item-meta a:hover,.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_subtitle,.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_subtitle,.wgl_portfolio_category-wrapper a:hover,.wgl_module_team .team-item_info .team-item_titles .team-title:hover,.wgl_module_team .team-info_icons a:hover,.wgl-icon:hover,.wgl-theme-color,.wgl_portfolio_item-wrapper .portfolio_link-icon:hover,.wgl_portfolio_item-corners,.wgl_portfolio_item-meta .post_cats,.wgl_portfolio_item-cats,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title .vc_tta-controls-icon,.wpb-js-composer .vc_row .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active > a,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab:hover > a,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel:hover .vc_tta-panel-heading .vc_tta-panel-title,.softlab_module_circuit_services .services_item-icon,ul.wp-block-archives.wp-block-archives-list li a:hover,ul.wp-block-categories.wp-block-categories-list li a:hover + .post_count,ul.wp-block-categories.wp-block-categories-list li a:hover,ul.wp-block-latest-posts li a:hover{color: #033c65;}.hover_links a:hover,header .header-link:hover{color: #033c65 !important;}body .widget_nav_menu .current-menu-ancestor > a,body .widget_nav_menu .current-menu-item > a,body .widget_recent_entriesul li .post-date,body .widget_rss ul li .rss-date,body .widget_meta ul li .post_count,body .widget_archive ul li > a:before,.recent-posts-widget .meta-wrapper a,.widget.widget_archive ul li a:hover,.widget.widget_categories ul li a:hover,.widget.widget_categories ul li a:hover + span,body .widget_product_categories ul li a:hover + .post_count,body .widget_archive ul li a:hover + .post_count,.widget.widget_recent_comments ul li a,.widget.widget_recent_entries ul li:before,.widget.widget_pages ul li a:hover,.widget.widget_meta ul li a:hover,.author-widget_social a:hover,.tagcloud a:hover,.widget.widget_recent_comments ul li span.comment-author-link a:hover,.widget.widget_recent_comments ul li a:hover,.widget.widget_recent_entries ul li a:hover,.widget.widget_nav_menu ul li a:hover,.author-widget_img-wrapper,.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,.recent-posts-widget .meta-wrapper a{color: #033c65;}.post_featured_bg .meta-wrapper .blog-post_meta-categories a:hover,body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a:hover,.meta-wrapper .blog-post_meta-categories a:hover{color: #033c65 !important;}.single_team_page .team-title:before,.slick-dots li button,.softlab_module_double_headings .heading_title .heading_divider,.softlab_module_double_headings .heading_title .heading_divider:before,.softlab_module_double_headings .heading_title .heading_divider:after,.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,.load_more_item:after,.widget.softlab_widget.softlab_banner-widget .banner-widget_button:after,.wgl_button_link:after,.theme-gradient .comment-respond .button__wrapper:after,.wgl-container ul.softlab_plus li:after,.wgl-container ul.softlab_plus li:before,.wgl-container ul.softlab_dash li:before,.wgl-pagination .page .current,.wgl-pagination .page a:hover,.isotope-filter a:after,ul.wp-block-archives.wp-block-archives-list li a:before,ul.wp-block-archives.wp-block-archives-list li a:after,ul.wp-block-categories.wp-block-categories-list li a:before,ul.wp-block-categories.wp-block-categories-list li a:after{background: #033c65;}::selection,.vc_wp_custommenu .menu .menu-item a:before,.primary-nav ul li ul li:hover > a > span:before,.primary-nav .lavalamp-object,.primary-nav ul li ul li > a span:before,.primary-nav ul li ul li > a:before,.primary-nav > ul > li > a > span:before,.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a:after,#comments > h3:after,#sb_instagram .sbi_photo:before,aside > .widget + .widget:before,button:hover,body .widget_categories ul li > a:hover:before,body .widget_categories ul li > a:hover:after,body .widget_product_categories ul li > a:hover:before,body .widget_product_categories ul li > a:hover:after,body .widget_meta ul li > a:hover:before,body .widget_meta ul li > a:hover:after,body .widget_archive ul li > a:hover:before,body .widget_archive ul li > a:hover:after,body .widget_categories ul li > a:before,body .widget_categories ul li > a:after,body .widget_product_categories ul li > a:before,body .widget_product_categories ul li > a:after,body .widget_meta ul li > a:before,body .widget_meta ul li > a:after,body .widget_archive ul li > a:before,body .widget_archive ul li > a:after,mark,span.highlighter,.blog-post_cats span a,.calendar_wrap caption,.comment-reply-title:after,.softlab_divider .softlab_divider_line .softlab_divider_custom .divider_line,.softlab_module_cats .cats_item-count,.softlab_module_double_headings .heading_subtitle:after,.softlab_module_double_headings .heading_subtitle:before,.softlab_module_progress_bar .progress_bar,.softlab_module_infobox.type_tile:hover:before,.softlab_module_social.with_bg .soc_icon,.softlab_module_title:after,.softlab_module_title .carousel_arrows a:hover span,.softlab_module_videobox .videobox_link,.softlab_module_carousel.pagination_circle_border .slick-dots li.slick-active button,.softlab_module_carousel.pagination_line .slick-dots li button:before,.softlab_module_carousel.pagination_square .slick-dots li,.load_more_works,.wgl-social-share_pages.hovered_style .share_social-icon-plus:before,.wgl-social-share_pages.hovered_style .share_social-icon-plus:after,.inside_image.offset_animation:before,.mc_form_inside #mc_signup_submit,.wgl-ellipsis span,.wgl_module_title.item_title .carousel_arrows a:hover,.wgl_timetabs .timetabs_headings .wgl_tab.active:after,.wgl-container ul.softlab_plus li:before,.widget .calendar_wrap table td#today:before,.widget .calendar_wrap tbody td > a:before,.widget .counter_posts,.widget.widget_pages ul li a:before,.widget.widget_nav_menu ul li a:before,.widget_nav_menu .menu .menu-item:before,.widget_postshero .recent-posts-widget .post_cat a,.widget_categories ul li > a:before,.widget_meta ul li > a:before,.widget_archive ul li > a:before,.softlab_module_services_3 .services_icon_wrapper .services_circle_wrapper .services_circle,.softlab_module_ico_progress .progress_completed,.button__wrapper:hover:after{background-color: #033c65;}.blog-post_meta-date,.softlab_module_carousel.navigation_offset_element .slick-prev:hover,.softlab_module_carousel.navigation_offset_element .slick-next:hover,.softlab_module_demo_item .di_button a,.next-link:hover,.prev-link:hover{border-color: #033c65;background: #033c65;} .softlab_module_button a:hover,.softlab_module_carousel.pagination_circle_border .slick-dots li button,.softlab_module_title .carousel_arrows a:hover span:before,.load_more_works{border-color: #033c65;}body input[type='text']:focus,body input[type='text']:active,body input[type='url']:focus,body input[type='url']:active,body input[type='search']:focus,body input[type='search']:active,body input[type='email']:focus,body input[type='email']:active,body input[type='password']:focus,body input[type='password']:active,body input[type='tel']:focus,body input[type='tel']:active,body input[type='time']:focus,body input[type='time']:active,select:focus,select:active,textarea:focus,textarea:active{border-color: #033c65;}.single_team_page .team-info_wrapper .team-info_svg svg,.single_team_page .team-single_wrapper:hover .team-info_wrapper .team-info_svg svg,.wgl_module_team.horiz_type .team-item_content:hover .team-info_svg svg{fill: #033c65;}.wgl-theme-header .header_search .header_search-field:after{border-bottom-color: rgba(3,60,101,0.9);}.dropcap-bg {box-shadow: 0px 6px 13px rgba(3,60,101,0.3);}.theme_color_shadow,.softlab_module_button.wgl_button .wgl_button_link,.wgl-theme-header .wrapper .softlab_module_button a:hover,input[type="submit"],button,.load_more_item,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel.vc_active .vc_tta-panel-heading,.wgl_module_team .team-info_icons .team-icon,.single-team .single_team_page .team-info_icons .team-icon{box-shadow:0px 9px 30px 0px rgba(3,60,101,0.4);}.inside_image .overlay:before,.inside_image.always_info_animation:hover .overlay:before{box-shadow: inset 0px 0px 0px 0px rgba(3,60,101,1);}.inside_image:hover .overlay:before,.inside_image.always_info_animation .overlay:before{box-shadow: inset 0px 0px 0px 10px rgba(3,60,101,1);}.wgl-pagination .page .current,.wgl-pagination .page-numbers:hover{box-shadow: 0px 6px 13px 0px rgba(3,60,101,0.2); }.button-read-more:hover,#comments .commentlist .comment_info .meta-wrapper .comment-edit-link,.wgl-social-share_pages.hovered_style ul li a:hover,.blog-post_views-wrap:before,.blog-post_meta-categories span,.number-comments,.softlab_module_time_line_horizontal .tlh_check_wrap,.softlab_module_testimonials .testimonials_item:before,.softlab_module_counter .counter_value_wrapper,body .widget .widget-title .widget-title_wrapper:before,.widget.softlab_widget.softlab_banner-widget .banner-widget_text .tags_title:after,.softlab_module_double_headings .heading_subtitle,.single_team_page .team-info_wrapper .team-department span,.isotope-filter a.active,.isotope-filter a:hover,.isotope-filter a:after,.softlab_module_testimonials .testimonials_position,.wgl-container ul.softlab_slash li:before,.wgl_module_team .team-department,.wgl-secondary-color,.wgl_portfolio_item-meta .post_cats a:hover,.wgl_portfolio_item-title .title:hover a{color: #03749c;}.post_featured_bg .meta-wrapper .blog-post_meta-categories a,.meta-wrapper .blog-post_meta-categories a{color: #03749c;}#multiscroll-nav span,#multiscroll-nav li .active span,.isotope-filter a .number_filter{background: #03749c;}body .widget .widget-title:after,.wgl-container ul li:before,.wgl-social-share_pages.standard_style a:before,.softlab_module_time_line_horizontal .tlh_check_wrap {background-color: #03749c;}.author-info_social-link:after{border-color: #03749c;}.author-widget_social a span,.single_info-share_social-wpapper .share_link .share-icon_animation{border-right-color: rgba(3,116,156,0.1);border-left-color: rgba(3,116,156,0.1);}.wgl-social-share_pages.standard_style a:hover:before{box-shadow:0px 9px 30px 0px rgba(3,116,156,0.4);}.footer .mc4wp-form-fields input[type="submit"]:hover,.footer .mc4wp-form-fields input[type="submit"]:focus,.footer .mc4wp-form-fields input[type="submit"]:active,.footer_top-area .footer-link:before,.footer_top-area .widget.widget_archive ul li > a:hover,.footer_top-area .widget.widget_archive ul li > a:hover,.footer_top-area .widget.widget_categories ul li > a:hover,.footer_top-area .widget.widget_categories ul li > a:hover,.footer_top-area .widget.widget_pages ul li > a:hover,.footer_top-area .widget.widget_pages ul li > a:hover,.footer_top-area .widget.widget_meta ul li > a:hover,.footer_top-area .widget.widget_meta ul li > a:hover,.footer_top-area .widget.widget_recent_comments ul li > a:hover,.footer_top-area .widget.widget_recent_comments ul li > a:hover,.footer_top-area .widget.widget_recent_entries ul li > a:hover,.footer_top-area .widget.widget_recent_entries ul li > a:hover,.footer_top-area .widget.widget_nav_menu ul li > a:hover,.footer_top-area .widget.widget_nav_menu ul li > a:hover,.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover{color: #033c65;}.footer_top-area .footer-link:hover{color: #033c65 !important;}.footer ul li:before,.footer ul li:before,.footer_top-area a:hover,.footer_top-area a:hover{color: #033c65;}.footer_top-area .widget-title,.footer_top-area .widget-title .rsswidget,.footer_top-area .widget.widget_pages ul li a,.footer_top-area .widget.widget_nav_menu ul li a,.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a,.footer_top-area .widget.widget_archive ul li > a,.footer_top-area .widget.widget_categories ul li > a,.footer_top-area .widget.widget_pages ul li > a,.footer_top-area .widget.widget_meta ul li > a,.footer_top-area .widget.widget_recent_comments ul li > a,.footer_top-area .widget.widget_recent_entries ul li > a,.footer_top-area .widget.widget_archive ul li:before,.footer_top-area .widget.widget_meta ul li:before,.footer_top-area .widget.widget_categories ul li:before,.footer_top-area strong,.footer_top-area h1,.footer_top-area h2,.footer_top-area h3,.footer_top-area h4,.footer_top-area h5,.footer_top-area h6{color: #161616;}.footer_top-area{color: #4f4e4e;}.footer_top-area .widget.widget_archive ul li:after,.footer_top-area .widget.widget_pages ul li:after,.footer_top-area .widget.widget_meta ul li:after,.footer_top-area .widget.widget_recent_comments ul li:after,.footer_top-area .widget.widget_recent_entries ul li:after,.footer_top-area .widget.widget_nav_menu ul li:after,.footer_top-area .widget.widget_categories ul li:after{background-color: #4f4e4e;}.footer .copyright{color: #03749c;}.footer .mc4wp-form-fields input[type="submit"]{background-color: #033c65;border-color: #033c65;}.theme-gradient .footer .wpcf7 input[type="submit"],.footer .wpcf7 input[type="submit"]{background: #03749c;}.footer .wpcf7 input[type="submit"]:hover{box-shadow:0px 9px 30px 0px rgba(3,116,156,0.4); ;}body {background:#ffffff;}ol.commentlist:after {background:#ffffff;}h1,h1 a,h1 span {font-family:Poppins;font-weight:700;font-size:42px;line-height:48px;}h2,h2 a,h2 span {font-family:Poppins;font-weight:700;font-size:36px;line-height:48px;}h3,h3 a,h3 span {font-family:Poppins;font-weight:700;font-size:30px;line-height:42px;}h4,h4 a,h4 span {font-family:Poppins;font-weight:700;font-size:24px;line-height:36px;}h5,h5 a,h5 span {font-family:Poppins;font-weight:600;font-size:20px;line-height:26px;}h6,h6 a,h6 span {font-family:Poppins;font-weight:600;font-size:18px;line-height:24px;}@media only screen and (max-width: 1200px) {.wgl-theme-header{background-color: rgba(208,239,247,1) !important;color: #ffffff !important;}.hamburger-inner,.hamburger-inner:before,.hamburger-inner:after{background-color:#ffffff;}}@media only screen and (max-width: 1200px) {.wgl-theme-header .wgl-mobile-header{display: block;}.wgl-site-header{display:none;}.wgl-theme-header .mobile-hamburger-toggle{display: inline-block;}.wgl-theme-header .primary-nav{display:none;}header.wgl-theme-header .mobile_nav_wrapper .primary-nav{display:block;}.wgl-theme-header .wgl-sticky-header{display: none;}body.mobile_switch_on .wgl-menu_outer {height: calc(100vh - 70px);}.mobile_nav_wrapper .primary-nav{min-height: calc(100vh - 70px - 30px);}.wgl-social-share_pages{display: none;}}@media only screen and (max-width: 1200px) {body .wgl-theme-header.header_overlap{position: relative;z-index: 2;}}@media only screen and (max-width: 768px) {.page-header{padding-top:15px !important;padding-bottom:40px!important;height:378px !important;}.page-header_content .page-header_title {color:#161616 !important;font-size:42px !important;line-height:72px !important;margin-bottom: 0 !important;}.page-header_content .page-header_breadcrumbs {color:#8b9baf !important;font-size:16px !important;line-height:24px !important;display: none !important;}}.softlab_module_button .wgl_button_link:before, .softlab_module_button .btn_border_gradient:before {background: #033c65;background: -webkit-radial-gradient(100% 150%,circle farthest-corner,#5cd4ef 10%,#033c65 50%);background: radial-gradient(circle farthest-corner at 100% 150%,#5cd4ef 10%,#033c65 50%);;}.softlab_module_button .wgl_button_link:after, .softlab_module_button .btn_border_gradient:after {background: #033c65;}.softlab_module_button .wgl_button_link:hover {color: #ffffff;}.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title:before,.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading:before,.wpb-js-composer .wgl-container .vc_row .vc_toggle .vc_toggle_title:after { background: #033c65;background: -webkit-radial-gradient(100% 150%,circle farthest-corner,#5cd4ef 10%,#033c65 50%);background: radial-gradient(circle farthest-corner at 100% 150%,#5cd4ef 10%,#033c65 50%); }.wpb-js-composer .wgl-container .vc_row .vc_toggle .vc_toggle_icon { color: #033c65 }.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_active .vc_toggle_icon,.wpb-js-composer .wgl-container .vc_row .vc_toggle:hover .vc_toggle_icon {color: inherit }.info_prev-link_wrapper > a:before,.softlab_module_carousel .slick-prev:before,.softlab_module_carousel .slick-next:before,.info_next-link_wrapper > a:before{background: #5cd4ef;background: -webkit-radial-gradient(100% 100%,circle farthest-corner,#033c65 0%,#5cd4ef 100%);background: radial-gradient(circle farthest-corner at 100% 100%,#033c65 0%,#5cd4ef 100%);}.load_more_item,form.post-password-form input[type="submit"],.widget.softlab_widget.softlab_banner-widget .banner-widget_button,.button__wrapper,.wgl_module_team .team-info_icons .team-icon,.single-team .single_team_page .team-info_icons .team-icon,.page_404_wrapper .softlab_404_button .wgl_button_link,.blog-post .softlab_module_videobox .videobox_link_wrapper a{background: #5cd4ef;background: #033c65;background: -webkit-radial-gradient(100% 150%,circle farthest-corner,#5cd4ef 10%,#033c65 50%);background: radial-gradient(circle farthest-corner at 100% 150%,#5cd4ef 10%,#033c65 50%);}.author-widget_img-wrapper{background: #5cd4ef;background: -webkit-radial-gradient(100% 100%,circle farthest-corner,#033c65 0%,#5cd4ef 100%);background: radial-gradient(circle farthest-corner at 100% 100%,#033c65 0%,#5cd4ef 100%);}ul.wgl-products li a.add_to_cart_button:before,ul.wgl-products li a.button:before,ul.wgl-products li .added_to_cart.wc-forward:before,div.product form.cart .button,#payment #place_order,#payment #place_order:hover,#add_payment_method .wc-proceed-to-checkout a.checkout-button,table.shop_table.cart input.button,#add_payment_method .wc-proceed-to-checkout a.checkout-button:before,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:before,.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:before,.cart .button,button.button:hover,.cart_totals .wc-proceed-to-checkout a.checkout-button:hover,.cart .button:hover,.cart-collaterals .button,.cart-collaterals .button:hover,table.shop_table.cart input.button:hover,.woocommerce-message a.button:before,.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.button.wc-forward:not(.checkout):before,.wc-proceed-to-checkout a.checkout-button{background: #5cd4ef;background: #033c65;background: -webkit-radial-gradient(100% 150%,circle farthest-corner,#5cd4ef 10%,#033c65 50%);background: radial-gradient(circle farthest-corner at 100% 150%,#5cd4ef 10%,#033c65 50%);}.woocommerce-message a.button:after,#add_payment_method .wc-proceed-to-checkout a.checkout-button:after,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:after,.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:after{background-color:#033c65;}.woocommerce .cart .button:hover{color:#033c65 !important;}.woocommerce.widget_shopping_cart .buttons a:before,.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background: #5cd4ef;background: #033c65;background: -webkit-radial-gradient(100% 150%,circle farthest-corner,#5cd4ef 10%,#033c65 50%);background: radial-gradient(circle farthest-corner at 100% 150%,#5cd4ef 10%,#033c65 50%);}.rev_slider .rev-btn.gradient-button{background: -webkit-linear-gradient(left,#033c65 0%,#5cd4ef 50%,#033c65 100%);background-size: 300%,1px;background-position: 0%;}
+</style>
+<link rel='stylesheet' id='js_composer_front-css' href='https://trualliant.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://trualliant.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/swipebox/js/jquery.swipebox.min.js?ver=6.2' id='swipebox-js'></script>
+<link rel="https://api.w.org/" href="https://trualliant.com/wp-json/" /><link rel="alternate" type="application/json" href="https://trualliant.com/wp-json/wp/v2/pages/1317" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://trualliant.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://trualliant.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<link rel='shortlink' href='https://trualliant.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://trualliant.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftrualliant.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://trualliant.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftrualliant.com%2F&#038;format=xml" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.6.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-255219614-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-255219614-1');
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11126460356"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11126460356');
+</script>
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style type="text/css" title="dynamic-css" class="options-output">.wgl-footer{padding-top:15px;padding-right:0;padding-bottom:0px;padding-left:0;}</style><script type='text/javascript'></script><style type="text/css" data-type="vc_custom-css">@media (min-width: 1355px) {
+    .resp-img img {
+        max-width: 135%;
+        margin-top: -40px;
+        margin-left: -107px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .resp-img img {
+        max-width: 125%;
+        margin-left: -65px;
+    }
+}
+.gradient-line:before {
+    content: '';
+    position: absolute;
+    z-index: 0;
+    height: 100%;
+    width: 2px;
+    left: 49px;
+    background: -webkit-linear-gradient(top, transparent 0%, rgba(219,228,244,0.9) 100px, rgba(219,228,243,0.9) calc(100% - 100px), transparent 100%);
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1550665859134{margin-top: -40px !important;}.vc_custom_1667912203619{background-color: #fafcff !important;}.vc_custom_1671474198700{background-color: #ffffff !important;}.vc_custom_1671474283712{background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1667912203619{background-color: #fafcff !important;}.vc_custom_1667912203619{background-color: #fafcff !important;}.vc_custom_1667912203619{background-color: #fafcff !important;}.vc_custom_1671475588198{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1671474198700{background-color: #ffffff !important;}.vc_custom_1675704511613{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704511633{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1675704539257{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704539266{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1675704553233{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704553253{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1675704580538{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704580546{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1675704591527{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704591538{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1675704601991{padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}.vc_custom_1675704602009{margin-top: 8px !important;border-radius: 50% !important;}.vc_custom_1551168022198{padding-left: 100px !important;}.vc_custom_1671210634646{background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1672476981468{margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important;}.vc_custom_1672477183827{margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important;}.vc_custom_1672477217227{margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important;}.vc_custom_1551173887897{margin-left: -15px !important;padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1669917145637{margin-right: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}.vc_custom_1669917145660{margin-right: 19px !important;}.vc_custom_1669744074619{margin-left: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}.vc_custom_1669744074633{margin-right: 19px !important;}.vc_custom_1669744169601{margin-right: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}.vc_custom_1669744169630{margin-right: 19px !important;}.vc_custom_1667912203619{background-color: #fafcff !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template-default page page-id-1317 wp-embed-responsive wpb-js-composer js-comp-ver-6.10.0 vc_responsive theme-gradient">
+
+    <header class='wgl-theme-header header_overlap'><div class='wgl-site-header mobile_header_custom'><div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section_middle" style="color: rgba(22,22,22,1);"><div class="fullwidth-wrapper"><div class="wgl-header-row_wrapper" style="height:110px;"><div class='position_left_middle header_side display_normal v_align_middle h_align_left'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                <a href='https://trualliant.com/'>
+                                                    <img class="default_logo" src="https://trualliant.com/wp-content/uploads/2022/11/ta-logo-dark-small-new.png" alt=""  style="height:48px;">
+                                                </a>
+            </div>
+            </div></div><div class='position_center_middle header_side display_normal v_align_middle h_align_center'><div class='header_area_container'><nav class='primary-nav menu_line_enable'  style="height:110px;"><ul id="menu-main-menu" class="menu"><li id="menu-item-1368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1368"><a href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx&#038;typeform-source=trualliant.com"><span>BPO Services<span class="menu-item_plus"></span></span></a></li><li id="menu-item-1337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="https://trualliant.com/contact-us/"><span>Contact Us<span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_right_middle header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class='header_spacing spacer_6' style='width:40px;'></div><div class="header_button"><div class="wrapper"><div id=softlab_button_64516648f2702 class="softlab_module_button wgl_button wgl_button-m aleft"><a class="wgl_button_link" href="https://ucvlddf37yz.typeform.com/to/WajtogV0" title='Grow My Sales!' target="_blank">Grow My Sales!<span class="btn_border_gradient"></span></a></div>
+</div></div></div></div></div></div></div></div></div><div class='wgl-sticky-header header_sticky_shadow' style="background-color: rgba(255,255,255,1);color: #313131;" data-style="standard"><div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section_middle"><div class="fullwidth-wrapper"><div class="wgl-header-row_wrapper" style="height:100px;"><div class='position_left_middle header_side display_normal v_align_middle h_align_left'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                <a href='https://trualliant.com/'>
+                                                <img class="logo-sticky" src="https://trualliant.com/wp-content/uploads/2022/11/ta-logo-dark-small-new.png" alt=""  style="height:42px;">
+                                            </a>
+            </div>
+            </div></div><div class='position_center_middle header_side display_normal v_align_middle h_align_center'><div class='header_area_container'><nav class='primary-nav menu_line_enable'  style="height:100px;"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1368"><a href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx&#038;typeform-source=trualliant.com"><span>BPO Services<span class="menu-item_plus"></span></span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="https://trualliant.com/contact-us/"><span>Contact Us<span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_right_middle header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class='header_spacing spacer_6' style='width:40px;'></div><div class="header_button"><div class="wrapper"><div id=softlab_button_64516649000f0 class="softlab_module_button wgl_button wgl_button-m aleft"><a class="wgl_button_link" href="https://ucvlddf37yz.typeform.com/to/WajtogV0" title='Grow My Sales!' target="_blank">Grow My Sales!<span class="btn_border_gradient"></span></a></div>
+</div></div></div></div></div></div></div></div></div><div class='wgl-mobile-header' style="background-color: rgba(208,239,247,1);color: #ffffff;"><div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section"><div class="wgl-container"><div class="wgl-header-row_wrapper" style="height:70px;"><div class='position_left header_side'><div class='header_area_container'><nav class='primary-nav menu_line_enable'  style="height:70px;"><ul id="menu-main-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1368"><a href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx&#038;typeform-source=trualliant.com"><span>BPO Services<span class="menu-item_plus"></span></span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="https://trualliant.com/contact-us/"><span>Contact Us<span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_center header_side'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                <a href='https://trualliant.com/'>
+                                                <img class="logo-mobile" src="https://trualliant.com/wp-content/uploads/2022/11/ta-logo-dark-small-new.png" alt=""  style="height:42px;">
+                                            </a>
+            </div>
+            </div></div><div class='position_right header_side'><div class='header_area_container'><div class='header_spacing spacer_2' style='width:25px;'></div><div class='header_spacing spacer_1' style='width:25px;'></div></div></div></div></div></div><div class='mobile_nav_wrapper' data-mobile-width='1200'><div class='container-wrapper'><div class='wgl-menu_outer'><nav class='primary-nav'><ul id="menu-main-menu-3" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1368"><a href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx&#038;typeform-source=trualliant.com"><span>BPO Services<span class="menu-item_plus"></span></span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="https://trualliant.com/contact-us/"><span>Contact Us<span class="menu-item_plus"></span></span></a></li></ul></nav></div></div></div></div></div></header>    <main id="main"><div class="wgl-container">
+    <div class="row ">
+        <div id='main-content' class="wgl_col-12">
+        <section class="wpb-content-wrapper"><div  class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div data-tf-popover="WajtogV0" data-tf-button-color="#FA6B05" data-tf-chat style="all:unset;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+		</div>
+	</div>
+</div></div></div></div><div  class="vc_row wpb_row vc_row-fluid vc_custom_1550665859134"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+			<!-- START TA Home Final 1 REVOLUTION SLIDER 6.6.3 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_2_1" style="" data-version="6.6.3">
+					<rs-slides style="overflow: hidden; position: absolute;">
+						<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-anim="ms:50;" data-in="o:0;" data-out="a:false;">
+							<img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Home-2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="p:50% 0%;c:#ffffff;" data-parallax="off" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-2-slide-2-layer-14" 
+								data-type="text"
+								data-color="#161616"
+								data-rsp_ch="on"
+								data-xy="xo:14px,15px,15px,15px;yo:380px,310px,230px,230px;"
+								data-text="w:normal;s:55,50,40,40;l:72,65,54,54;ls:-3px,0px,0px,0px;fw:700;"
+								data-dim="w:598px,520px,520px,520px;"
+								data-frame_0="y:-50px;"
+								data-frame_1="e:power2.out;st:1660;sp:1400;sR:1660;"
+								data-frame_999="o:0;st:w;sp:310;sR:5940;"
+								style="z-index:18;font-family:'Poppins';"
+							>Scale your growth, fast. 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-16" 
+								data-type="text"
+								data-rsp_ch="on"
+								data-xy="xo:505px,440px,239px,239px;yo:35px,-79px,-41px,-41px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:1000px,802px,578px,578px;"
+								data-frame_0="sX:0.8;sY:0.8;"
+								data-frame_1="e:power4.out;st:110;sp:1560;sR:110;"
+								data-frame_999="o:0;st:w;sp:310;sR:7330;"
+								style="z-index:6;font-family:'Open Sans';"
+							><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px"
+	 y="0px" viewBox="0 0 180 180" style="fill: #e8f7fb; transform: rotate(0deg);">
+<pattern id="img1" patternUnits="userSpaceOnUse" width="100%" height="100%">
+    <image href="" x="0" y="0" width="100%" height="100%"/>
+</pattern>
+<path d="">
+	<animate  repeatCount="indefinite" attributeName="d" dur="15s"
+	values="
+	
+	M78.8,23.2c-3.5,3-8.7,7.6-14.9,13.3c-8.9,8.3-13.5,12.4-17.5,16.6c-5,5.3-10.5,11-15.9,19c-4.9,7.2-11.9,17.7-14.5,32.8
+	c-1.4,8.1-3.6,21.1,3.3,34.2c7.9,14.9,22.7,20.5,30.2,23.3c14.7,5.5,27.3,4.4,36,3.5c17.8-1.8,30.5-8.1,37-11.4
+	c14.4-7.4,22.8-15.7,24.8-17.7c7-7.1,16.6-16.8,15.4-29c-0.3-3.1-1.2-5.6-2-7.3c-3.8-7.8-12-10.7-19.7-21.8c-9.7-13.9,9-32.9,3-47.9
+	c-2.7-6.7-8.7-10.3-10.8-11.8c-9.6-6.7-19.7-6.7-24-6.7C95.2,12.3,84.5,18.3,78.8,23.2z;
+
+	M78.8,23.2c-3.5,3-8.7,7.6-14.9,13.3c-8.9,8.3-13.5,12.4-17.5,16.6c-8.6,9-12.9,13.5-15.9,19c-7,12.9-6.5,25.7-6.2,32.6
+	c0.3,7.5,0.7,18.7,8,30.7C40,148,50.8,153.8,55,156c6.4,3.3,23.5,12.3,35.7,5.3c9-5.2,5.4-13.5,14.3-20c13.1-9.5,26.7,4.6,42.3-4.7
+	c9.8-5.8,16.7-18.6,15.4-29c-0.5-3.5-1.4-3.4-2-7.3c-1.8-12.1,7.2-17.3,9.3-28c3.1-16.1-11.2-35.8-25.9-41.7c-5-2-6.1-0.8-12.7-3.7
+	c-13.5-5.8-13.6-12.6-22.1-14.8C98.4,9.4,86.4,16.7,78.8,23.2z;
+
+	M82,8.3c-4.8,3-9.3,11.4-18.1,28.2c-5.2,9.9-5.8,12-10.2,19.5C47.4,66.7,44.3,72,40,76C27.5,87.6,16.6,81.5,8.7,89.7
+	c-10.8,11.1-6.6,38.7,7,55c20,23.9,57.6,20,64,18.7c0.8-0.2,5.1-1.1,11-2c6.6-1,11.4-1.2,12.7-1.3c13.9-1.1,31.1-16,40.7-27.3
+	c3.5-4.2,10.2-12.3,14.3-24.3c1.3-3.8,1-4.2,2.4-8c5.1-14.4,11.6-16.6,14-24c4.9-15.3-12.2-40-30.6-45.7c-5.1-1.5-7.5-0.8-12.7-3.7
+	c-10.8-5.9-10-14.3-18.3-19.7C104.1,1.6,90.5,3,82,8.3z;
+
+	M78.8,23.2c-3.5,3-8.7,7.6-14.9,13.3c-8.9,8.3-13.5,12.4-17.5,16.6c-5,5.3-10.5,11-15.9,19c-4.9,7.2-11.9,17.7-14.5,32.8
+	c-1.4,8.1-3.6,21.1,3.3,34.2c7.9,14.9,22.7,20.5,30.2,23.3c14.7,5.5,27.3,4.4,36,3.5c17.8-1.8,30.5-8.1,37-11.4
+	c14.4-7.4,22.8-15.7,24.8-17.7c7-7.1,16.6-16.8,15.4-29c-0.3-3.1-1.2-5.6-2-7.3c-3.8-7.8-12-10.7-19.7-21.8c-9.7-13.9,9-32.9,3-47.9
+	c-2.7-6.7-8.7-10.3-10.8-11.8c-9.6-6.7-19.7-6.7-24-6.7C95.2,12.3,84.5,18.3,78.8,23.2z  "/>
+
+</path>
+</svg> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-33" 
+								data-type="text"
+								data-color="#15b1d7||#54e0c4||#54e0c4||#54e0c4"
+								data-rsp_ch="on"
+								data-xy="xo:15px;yo:355px,285px,205px,205px;"
+								data-text="s:21,18,18,18;l:26,22,22,22;a:inherit;"
+								data-frame_0="y:-59px;"
+								data-frame_1="st:2360;sp:1400;sR:2360;"
+								data-frame_999="o:0;st:w;sp:310;sR:5240;"
+								style="z-index:19;font-family:'Poppins';"
+							>Hire the Best Outsourced Talent to 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-34" 
+								data-type="text"
+								data-color="#4f4e4e"
+								data-rsp_ch="on"
+								data-xy="xo:15px;yo:467px,395px,290px,290px;"
+								data-text="w:normal;s:18,18,16,16;l:30;a:inherit;"
+								data-dim="w:600px,600px,460px,460px;h:89px,89px,91px,91px;"
+								data-frame_0="y:50px;"
+								data-frame_1="st:2660;sp:1400;sR:2660;"
+								data-frame_999="o:0;st:w;sp:310;sR:4940;"
+								style="z-index:20;font-family:'Open Sans';"
+							>We support leading brands with conversion-focused offshore workers. Start expanding your team, boost your sales, and increase your capacity in just 48 hours or less. 
+							</rs-layer><!--
+
+							--><a
+								id="slider-2-slide-2-layer-35" 
+								class="rs-layer gradient-button rev-btn rev-withicon"
+								href="https://ucvlddf37yz.typeform.com/to/WajtogV0" target="_blank" rel="nofollow noopener"
+								data-type="button"
+								data-color="rgba(255,255,255,1)"
+								data-xy="xo:15px;yo:600px,530px,410px,410px;"
+								data-text="s:18,18,16,16;l:18;fw:500;"
+								data-padding="t:19,19,12,12;r:40,40,30,30;b:19,19,12,12;l:40,40,30,30;"
+								data-border="bor:30px,30px,30px,30px;"
+								data-frame_1="st:3380;sp:1400;sR:3380;"
+								data-frame_999="o:0;st:w;sp:310;sR:4220;"
+								data-frame_hover="c:#34aadc;bgc:#fff;boc:#6a4bc4;bor:30px,30px,30px,30px;bos:solid;bow:0px,0px,0px,0px;oX:50;oY:50;sp:0;e:power0.in;"
+								style="z-index:21;background-color:#15b1d7;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							><i class="fa-group" style="margin-right: 10px; font-size: 20px"></i>Hire Talent 
+							</a><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-36" 
+								class="rs-pxl-1"
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:488px,620px,510px,510px;yo:126px,190px,160px,160px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:734px,370px,253px,253px;h:908px,489px,333px,333px;"
+								data-btrans="rY:-5;"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="st:460;sp:1480;sR:460;"
+								data-frame_999="o:0;st:w;sp:310;sR:7060;"
+								style="z-index:7;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1655" height="2048" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/ta-hero-screenn-1-1655x2048.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-2-slide-2-layer-37" 
+								class="rs-layer rev-btn rev-withicon"
+								href="https://ucvlddf37yz.typeform.com/to/PeVoQO0z?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx" target="_blank" rel="nofollow noopener"
+								data-type="button"
+								data-color="#15b1d7"
+								data-xy="xo:231px,197px,149px,149px;yo:600px,512px,389px,389px;"
+								data-text="s:18,15,11,11;l:18,15,11,11;fw:500;"
+								data-vbility="t,t,f,f"
+								data-padding="t:19,16,12,12;r:32,27,21,21;b:19,16,12,12;l:32,27,21,21;"
+								data-border="bos:solid;boc:#15b1d7;bow:1,1,1,1;bor:30px,30px,30px,30px;"
+								data-frame_1="st:3380;sp:1400;sR:3380;"
+								data-frame_999="o:0;st:w;sp:310;sR:4220;"
+								data-frame_hover="c:#fff;bgc:#34aadc;boc:#34aadc;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:0;e:power0.in;"
+								style="z-index:22;background-color:rgba(106,75,196,0);font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							><i class="fa-handshake-o" style="margin-right: 10px; font-size: 20px"></i>Get Leads 
+							</a><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-38" 
+								class="rs-pxl-2"
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:586px,620px,510px,510px;yo:165px,190px,160px,160px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:662px,370px,253px,253px;h:818.992px,487px,333px,333px;"
+								data-btrans="rY:-5;"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="x:-5px,-4px,-3px,-3px;y:-7px,-5px,-3px,-3px;st:1510;sp:1400;sR:1510;"
+								data-frame_999="o:0;st:w;sp:520;sR:6090;"
+								style="z-index:8;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1655" height="2048" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/hero-slide-2-new-1655x2048.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-39" 
+								class="rs-pxl-3"
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:576px,620px,510px,510px;yo:459px,190px,160px,160px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:509px,370px,253px,253px;h:308px,487px,333px,333px;"
+								data-vbility="t,t,f,f"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="st:2500;sp:1400;sR:2500;"
+								data-frame_999="o:0;st:w;sp:500;sR:5100;"
+								style="z-index:9;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="918" height="555" data-lazyload="//trualliant.com/wp-content/uploads/2022/12/new-card-foor-hero-final.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-40" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-366px,48px,48px,48px;yo:126px,-32px,-32px,-32px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:337px,204px,172px,172px;h:345px,208px,175px,175px;"
+								data-frame_0="x:-50px;"
+								data-frame_1="st:2760;sp:1110;sR:2760;"
+								data-frame_999="o:0;st:w;sp:310;sR:5130;"
+								data-loop_999="sX:1.1;sY:1.1;sp:4000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:10;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="337" height="345" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/sphere-slider-1.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-41" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-394px,18px,22px,22px;yo:156px,64px,41px,41px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:77px,50px,50px,50px;h:79px,51px,51px,51px;"
+								data-frame_0="x:left;o:1;"
+								data-frame_1="st:3360;sp:1110;sR:3360;"
+								data-frame_999="o:0;st:w;sp:310;sR:4530;"
+								data-loop_0="xR:10;yR:10;oX:50;oY:50;"
+								data-loop_999="xR:10;yR:10;crd:t;sp:4000;yys:t;yyf:t;"
+								style="z-index:11;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="77" height="79" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/blue-ball.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-43" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:1106px,903px,743px,743px;yo:200px,9px,-1px,-1px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:63px,63px,40px,40px;h:63px,63px,40px,40px;"
+								data-frame_0="x:right;o:1;"
+								data-frame_1="st:4560;sp:1110;sR:4560;"
+								data-frame_999="o:0;st:w;sp:310;sR:3330;"
+								data-loop_0="rZ:360;oX:50;oY:50;"
+								data-loop_999="sp:12000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:13;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="63" height="63" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/sphere-slider-4.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-44" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:1418px,1013px,574px,574px;yo:458px,546px,603px,603px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:78px,78px,49px,49px;h:80px,80px,51px,51px;"
+								data-frame_0="x:right;o:1;"
+								data-frame_1="st:5160;sp:1110;sR:5160;"
+								data-frame_999="o:0;st:w;sp:310;sR:2730;"
+								data-loop_0="x:10;"
+								data-loop_999="x:-10;sp:6000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:14;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="78" height="80" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/sphere-slider-5.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-45" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:1308px,933px,556px,556px;yo:509px,473px,528px,528px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:180px,151px,84px,84px;h:183px,152px,86px,86px;"
+								data-frame_0="x:50px;"
+								data-frame_1="st:5760;sp:1110;sR:5760;"
+								data-frame_999="o:0;st:w;sp:310;sR:2130;"
+								data-loop_0="xR:5px;yR:5px;oX:50;oY:50;"
+								data-loop_999="xR:5px;yR:5px;crd:t;sp:4000;yys:t;yyf:t;"
+								style="z-index:15;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="180" height="183" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/orange-bubble.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-46" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:1368px,910px,621px,621px;yo:582px,582px,504px,504px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:337px,247px,126px,126px;h:345px,254px,127px,127px;"
+								data-frame_0="x:50px;"
+								data-frame_1="st:6360;sp:1110;sR:6360;"
+								data-frame_999="o:0;st:w;sp:310;sR:1530;"
+								data-loop_0="sX:0.9;sY:0.9;"
+								data-loop_999="sp:4000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:16;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="337" height="345" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/sphere-slider-1.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-47" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:1278px,883px,883px,883px;yo:720px,739px,739px,739px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:77px,66px,66px,66px;h:79px,68px,68px,68px;"
+								data-frame_0="x:right;o:1;"
+								data-frame_1="st:6960;sp:1110;sR:6960;"
+								data-frame_999="o:0;st:w;sp:310;sR:930;"
+								data-loop_0="x:10;y:-10;"
+								data-loop_999="x:-10;y:10;sp:4000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:17;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="77" height="79" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/blue-ball.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-2-slide-2-layer-48" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-138px,13px,16px,16px;yo:808px,716px,555px,555px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:77px,62px,62px,62px;h:79px,64px,64px,64px;"
+								data-frame_0="x:left;o:1;"
+								data-frame_1="st:3960;sp:1110;sR:3960;"
+								data-frame_999="o:0;st:w;sp:310;sR:3930;"
+								data-loop_0="y:10;"
+								data-loop_999="y:-10;sp:4000;e:power0.in;yym:t;yys:t;yyf:t;"
+								style="z-index:12;"
+							><img src="//trualliant.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="77" height="79" data-lazyload="//trualliant.com/wp-content/uploads/revslider/home3-11/blue-ball.png" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_2_1',rl:[1240,1024,778,778],el:[980,850,700,700],gw:[1200,1024,778,778],gh:[980,850,700,700],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider21"]!==undefined) {window.RS_MODULES.modules["revslider21"].once = false;window.revapi2 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:50px;"></div></div>  
+</div></div></div></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1667912203619 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:70px;"></div></div>  
+<div id=softlab_dbl_64516649026ba class="softlab_module_double_headings aleft "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">Transactions from our clients in 2022</div><div class="heading_title" style="font-size:72px; line-height:1; font-weight:700; "><div class="heading_title_tablet" style="font-size:32px;"><div class="heading_title_mobile" style="font-size:26px;">Over $15,000,000 </div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner"><div class="wpb_wrapper"><div class ="softlab_module_text" style="font-size:20px;line-height:36px;">
+<h2 style="text-align: left;">Join us and grow</h2>
+</div>  
+<div class ="softlab_module_text" style="font-size:20px;line-height:36px;">
+<p style="text-align: left;">We provide digital outsourcing services to hundreds of companies around the world. Our BPO solutions and GrowthAccelerator™ programs have helped scale various-sized brands — ridiculously fast.</p>
+</div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:100px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1671474198700 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div id="softlab_spacer_64516649031f9" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:70px;"></div><div class="spacing_size spacing_size-desktops" style="height:0px;"></div></div>  
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-10 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-1"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_slideInLeft slideInLeft" >
+		<div class="wpb_wrapper">
+			<p><img decoding="async" class="alignnone wp-image-802" style="border-radius: 30px;" src="https://trualliant.com/wp-content/uploads/2023/02/homepage-our-approach-new.png" alt="img-802" width="493" height="493" /></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-5 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="softlab_spacer_64516649034f4" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:20px;"></div><div class="spacing_size spacing_size-desktops" style="height:5px;"></div><div class="spacing_size spacing_size-tablet" style="height:55px;"></div></div>  
+<div id=softlab_dbl_6451664903541 class="softlab_module_double_headings aleft "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">Our Approach</div><div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:700; ">Why you will love<br />
+growing with us</div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>TruAlliant is your partner in providing the best out-sourced talent to grow your sales campaigns, quickly. We relentlessly optimize our agents’ performance and track your growth with our in-depth campaign reporting. Discover how we can help accelerate your business growth in less than one week. <strong>Together, we can sell more.</strong></p>
+
+		</div>
+	</div>
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:38px;"></div></div>  
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div style="display: flex; align-items: center;">
+<div style="margin-right: 20px;"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-312" style="border-radius: 50%;" src="https://trualliant.com/wp-content/uploads/2023/01/new-get-started-photo.jpg" alt="" width="60" height="60" /></div>
+<h6>Ready to start <a href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&amp;utm_medium=xxxxx&amp;utm_campaign=xxxxx&amp;utm_term=xxxxx&amp;utm_content=xxxxx"><span style="color: #15b1d7; font-weight: 500;">scaling your business?</span></a></h6>
+</div>
+
+		</div>
+	</div>
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:30px;"></div></div>  
+</div></div></div></div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:56px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1671474283712 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-4 vc_col-md-offset-0 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_6451664903ac6 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-money-2"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Cost Effective</h3><div class="infobox_content" >Pricing starts at as little as $6/hr with no extra setup fees or overhead costs</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-4 vc_col-md-offset-0 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_6451664903d72 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-time"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Time-Saving</h3><div class="infobox_content" >Your account manager will expedite onboarding and source the best team</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-3 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_6451664903fe1 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-setup"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Scalable</h3><div class="infobox_content" >Expand your team or adjust schedules whenever and however you like</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-4 vc_col-md-offset-0 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_64516649042e4 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-star-2"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Highly-Skilled</h3><div class="infobox_content" >Our skilled staff are trained to handle any level of service or sales</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-4 vc_col-md-offset-0 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_6451664904566 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-check"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Experienced</h3><div class="infobox_content" >Our mgmt is here to ensure all agents are always hitting your goals</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-3 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_infobox_64516649047b9 class="softlab_module_infobox layout_left alignment_left hover_shift"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:40px; height:40px; "><i class="infobox_icon flaticon-growth"  style="font-size:15px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:18px; margin-bottom:4px; ">Consistent</h3><div class="infobox_content" >Your team is held to the highest BPO industry standards</div></div><div class="infobox_button_wrapper"><a class="infobox_button read-more-icon" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank" style="width:40px; "><i class="flaticon-next-1"></i></a></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+</div></div></div></div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:93px;"></div></div>  
+<div id=softlab_dbl_64516649049bd class="softlab_module_double_headings acenter "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">How it Works</div><div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:700; "><div class="heading_title_mobile" style="font-size:29px;">Get Started in a Few Minutes<br />
+with Lightning-Fast Onboarding</div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:40px;"></div></div>  
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-2"><div class="vc_column-inner vc_custom_1551168022198"><div class="wpb_wrapper"><div id=softlab_img_layer_6451664904ba9 class="softlab_module_img_layer"><div class="img_layer_image_wrapper fade_in" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/12/onboarding-phone-bg.png" alt="" /></div></div></div><div class="img_layer_image_wrapper slide_up" style="z-index:2"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/12/oonboaring-homepage-new.png" alt="" /></div></div></div></div>  
+<div id="softlab_spacer_6451664904dde" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:0px;"></div><div class="spacing_size spacing_size-tablet" style="height:35px;"></div><div class="spacing_size spacing_size-mobile" style="height:0px;"></div></div>  
+</div></div></div><div class="gradient-line wpb_column vc_column_container vc_col-sm-10 vc_col-lg-offset-1 vc_col-lg-5 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-1 vc_col-has-fill"><div class="vc_column-inner vc_custom_1671210634646"><div class="wpb_wrapper"><div id="softlab_spacer_6451664904ed2" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:50px;"></div><div class="spacing_size spacing_size-tablet" style="height:45px;"></div></div>  
+<div id=softlab_infobox_6451664904f38 class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container "><i class="infobox_icon flaticon-iphone"  style="font-size:33px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="margin-bottom:12px; ">Step 1: Discovery Call</h3><div class="infobox_content" >In order to build a campaign tailored to your specific needs, we need to understand the unique requirements of your business</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:56px;"></div></div>  
+<div id=softlab_infobox_645166490516e class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container "><i class="infobox_icon flaticon-handshake"  style="font-size:33px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="margin-bottom:12px; ">Step 2: Agent Onboarding</h3><div class="infobox_content" >Agents are hired and trained specific to your scripting needs, to ensure a quick and smooth launch. — avoiding any learning curves</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:56px;"></div></div>  
+<div id=softlab_infobox_64516649052e8 class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container "><i class="infobox_icon flaticon-growth"  style="font-size:33px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="margin-bottom:12px; ">Step 3: Get Results</h3><div class="infobox_content" >Our management works hand-in-hand with your assigned agents to ensure consistent volume and quality while maintaining manageable growth</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:85px;"></div></div>  
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  class="vc_row wpb_row vc_row-fluid wgl-row-animation"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:59px;"></div></div>  
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-5 vc_col-md-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div id=softlab_dbl_64516649057f9 class="softlab_module_double_headings aleft "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">About our Agents</div><div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:700; "><div class="heading_title_tablet" style="font-size:32px;"><div class="heading_title_mobile" style="font-size:26px;">Conversion-focused and<br />
+always getting better<br />
+</div></div></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-5 vc_col-lg-2 vc_col-md-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:67px;"></div></div>  
+<div id=softlab_button_64516649059c4 class="softlab_module_button wgl_button wgl_button-l btn-gradient aleft"><a class="wgl_button_link" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank">Schedule a Consultation<span class="btn_border_gradient"></span></a></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner vc_custom_1551173887897"><div class="wpb_wrapper"><div id=softlab_img_layer_6451664905b36 class="softlab_module_img_layer custom-image"><div class="img_layer_image_wrapper slide_right" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/11/girl-1-images_layers_4-01-700x570-1.png" alt="" /></div></div></div><div class="img_layer_image_wrapper slide_right" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/11/thumbs-up-3.png" alt="" /></div></div></div><div class="img_layer_image_wrapper slide_right" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/11/homepage-homie-2.png" alt="" /></div></div></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:40px;"></div></div>  
+<div id=softlab_infobox_6451664905ef1 class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:50px; height:48px; "><i class="infobox_icon flaticon-star"  style="font-size:50px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:20px; margin-bottom:8px; ">Highest-Quality</h3><div class="infobox_content" >Our reps are a team of close-knit sales professionals and industry veterans that both fluent and English-sounding. Their goal is to get your more sales. Period.</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:40px;"></div></div>  
+<div id=softlab_infobox_64516649060b7 class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:50px; height:48px; "><i class="infobox_icon flaticon-lightbulb"  style="font-size:38px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:20px; margin-bottom:8px; ">Deep Product Knowledge</h3><div class="infobox_content" >Experienced agents ready to join your team, instantly. Sounds great, right? They are also equipped with a strong understanding of not only your products and campaigns, but how to sell.</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:40px;"></div></div>  
+<div id=softlab_infobox_645166490624d class="softlab_module_infobox layout_left alignment_left"><div class="infobox_wrapper"><div class="infobox_icon_wrapper"><div class="infobox_icon_container " style="width:50px; height:48px; "><i class="infobox_icon flaticon-user-6"  style="font-size:38px;"></i></div></div><div class="infobox_content_wrapper"><h3 class="infobox_title"  style="font-size:20px; margin-bottom:8px; ">Endless Amount</h3><div class="infobox_content" >Whether you're looking for 5 agents or 500, we have the staff and capacity to seemlesly onboard and begin getting you more sales in less than a week. Let's start scaling your campaigns.</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:40px;"></div></div>  
+</div></div></div></div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:70px;"></div></div>  
+</div></div></div><div id="extended_6451664906440" class="extended-parallax" data-paroller-type="foreground" style="top:13%; left:-31%; " data-paroller-direction="vertical" data-paroller-factor="-0.2" ><img src="https://trualliant.com/wp-content/uploads/2022/11/sphere-9-150x150-1.png" alt="" /></div><div id="extended_645166490652e" class="extended-parallax" data-paroller-type="foreground" style="top:55%; left:-10%; " data-paroller-direction="vertical" data-paroller-factor="0.3" ><img src="https://trualliant.com/wp-content/uploads/revslider/home3-11/blue-ball.png" alt="" /></div></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1667912203619 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1667912203619 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:15px;"></div></div>  
+<div id=softlab_dbl_645166490699a class="softlab_module_double_headings acenter "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">Onboard new sales agents in less than 72 hours</div><div class="heading_title" style="font-size:72px; line-height:1; font-weight:700; "><div class="heading_title_tablet" style="font-size:32px;"><div class="heading_title_mobile" style="font-size:26px;">Ready to get started?</div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div class ="softlab_module_text" style="font-size:20px;line-height:36px;">
+<p style="text-align: center;">If you are ready to speak with one of our growth specialists, we are standing by and ready to help answer questions to get you started. We&#8217;re here to make it as simple and cost-effective as possible to start scaling your business growth today.</p>
+</div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div id=softlab_button_6451664906c4a class="softlab_module_button wgl_button wgl_button-l btn-gradient acenter"><a class="wgl_button_link" href="https://ucvlddf37yz.typeform.com/to/WajtogV0?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank">Schedule a Consultation<span class="btn_border_gradient"></span></a></div>
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:100px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1667912203619 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><section class="vc_section"><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1667912203619 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div id=softlab_dbl_6451664907254 class="softlab_module_double_headings aleft "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">Fuel campaigns with TruAlliant Leads</div><div class="heading_title" style="font-size:38px; line-height:1; font-weight:700; "><div class="heading_title_tablet" style="font-size:32px;"><div class="heading_title_mobile" style="font-size:26px;"><h2>Wait, do you want really good leads too?</h2></div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div class ="softlab_module_text" style="font-size:18px;line-height:32px;">
+<p style="text-align: left;">In addition to our digital outsourcing services, our high-quality leads will help you scale your business with more sales. Get started with one of our GrowthAccelerator™ programs today.</p>
+</div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+<div id=softlab_button_645166490741b class="softlab_module_button wgl_button wgl_button-xl btn-gradient aleft"><a class="wgl_button_link" href="https://ucvlddf37yz.typeform.com/to/PeVoQO0z?utm_source=xxxxx&#038;utm_medium=xxxxx&#038;utm_campaign=xxxxx&#038;utm_term=xxxxx&#038;utm_content=xxxxx" target="_blank">Get New Leads!<span class="btn_border_gradient"></span></a></div>
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:135px;"></div></div>  
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div id=softlab_img_layer_645166490754a class="softlab_module_img_layer"><div class="img_layer_image_wrapper slide_big_down" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2023/02/leads-image-new.png" alt="" /></div></div></div><div class="img_layer_image_wrapper zoom_in" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/11/images_layers_5-02.png" alt="" /></div></div></div><div class="img_layer_image_wrapper zoom_in" style="z-index:1"><div class="img_layer_item" ><div class="img_layer_image"><img src="https://trualliant.com/wp-content/uploads/2022/11/images_layers_5-03.png" alt="" /></div></div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:35px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1671475588198 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:32px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1671474198700 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div id="softlab_spacer_6451664907ba6" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:70px;"></div><div class="spacing_size spacing_size-desktops" style="height:0px;"></div></div>  
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-10 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-1"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_slideInLeft slideInLeft" >
+		<div class="wpb_wrapper">
+			<p><img decoding="async" loading="lazy" class="alignnone wp-image-802" style="border-radius: 30px;" src="https://trualliant.com/wp-content/uploads/2023/01/grow-with-us-truallliant.png" alt="img-802" width="493" height="493" /></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-5 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="softlab_spacer_6451664907dcb" class ="softlab_module_spacing responsive_active"><div class="spacing_size spacing_size-initial" style="height:20px;"></div><div class="spacing_size spacing_size-desktops" style="height:5px;"></div><div class="spacing_size spacing_size-tablet" style="height:55px;"></div></div>  
+<div id=softlab_dbl_6451664907e14 class="softlab_module_double_headings aleft "><div class="heading_subtitle" style="font-size:18px; line-height:20px; font-weight:400; ">We&#039;re Hiring</div><div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:700; "><div class="heading_title_mobile" style="font-size:29px;">Join our growing team!</div></div></div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:20px;"></div></div>  
+<div class ="softlab_module_text" style="font-size:20px;line-height:36px;">
+<p style="text-align: left;">Looking to be apart of one of the biggest and fastest growing BPO companies in the Philippines? Contact us today to get started.</p>
+</div>  
+<div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:38px;"></div></div>  
+<div id=softlab_button_6451664907fde class="softlab_module_button wgl_button wgl_button-l wgl_button-inline btn-gradient aleft"><a class="wgl_button_link" href="https://trualliant.com/contact-us/" title='Contact Us'>Join the Team!<span class="btn_border_gradient"></span></a></div>
+<div  id=softlab_soc_icon_wrap_6451664908065 class="softlab_module_social aleft" style=" padding-left:20px;"><a href="https://www.facebook.com/TrualliantInc/" class="soc_icon fab fa-facebook" style="font-size:18px; " target='_blank'  title='Facebook'></a></div></div></div></div></div><div  class ="softlab_module_spacing"><div class="spacing_size spacing_size-initial" style="height:56px;"></div></div>  
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-1"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-1"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-1"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div>
+</section>        </div>
+                   
+    </div>
+</div>
+        
+	</main>
+	<footer class='footer clearfix' style=" background-color :#f7f9fd;" id='footer'><div class='footer_top-area'><div class='wgl-container'><div class='row-footer' style=" padding-top:15px; padding-bottom:0px;"><a href="https://trualliant.com/privacy-policy/">Privacy Policy</a>  |
+<a href="https://trualliant.com/terms-and-conditions/">Terms and Conditions</a></div></div></div>    		<div class='copyright' style="background-color:#f7f9fd;" >
+                <div class='wgl-container'>                	<div class='row'  style="padding-top:20px;padding-bottom:20px;" >
+                       <div class='wgl_col-12'>
+                       <p>Copyright © 2023 TruAlliant. All Rights Reserved</p>                       </div>
+                	</div>
+                </div>            </div>
+            </footer><a href='#' id='scroll_up'></a><span id="softlab-footer-inline-css" class="dynamic_styles-footer" style="display: none;">#softlab_button_64516648f2702 .wgl_button_link { color: rgba(3,60,101,1); }#softlab_button_64516648f2702 .wgl_button_link:hover { color: rgba(255,255,255,1); }#softlab_button_64516648f2702 .wgl_button_link {
+					  border-color: rgba(92,212,239,1);
+					  background-color: transparent;
+				  }#softlab_button_64516648f2702 .wgl_button_link:hover {
+					  border-color: rgba(92,212,239,1);
+					  background-color: rgba(92,212,239,1);
+				  }#softlab_button_64516649000f0 .wgl_button_link { color: rgba(249,115,4,1); }#softlab_button_64516649000f0 .wgl_button_link:hover { color: rgba(255,255,255,1); }#softlab_button_64516649000f0 .wgl_button_link {
+					  border-color: rgba(249,115,4,1);
+					  background-color: transparent;
+				  }#softlab_button_64516649000f0 .wgl_button_link:hover {
+					  border-color: rgba(249,115,4,1);
+					  background-color: rgba(249,115,4,1);
+				  }@media only screen and (max-width: 1199px){
+					#softlab_spacer_64516649031f9 .spacing_size{
+						display: none;
+					}				
+					#softlab_spacer_64516649031f9 .spacing_size-desktops{
+						display: block;
+					}
+
+				}@media only screen and (max-width: 1199px){
+					#softlab_spacer_64516649034f4 .spacing_size{
+						display: none;
+					}				
+					#softlab_spacer_64516649034f4 .spacing_size-desktops{
+						display: block;
+					}
+
+				}@media only screen and (max-width: 991px){
+					#softlab_spacer_64516649034f4 .spacing_size{
+						display: none;
+					}					
+					#softlab_spacer_64516649034f4 .spacing_size-tablet{
+						display: block;
+					}
+
+				}#softlab_infobox_6451664903ac6 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903ac6 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903ac6 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_6451664903ac6 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_6451664903ac6 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_6451664903ac6 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_6451664903ac6 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_6451664903ac6:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664903ac6 .infobox_wrapper,#softlab_infobox_6451664903ac6 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_6451664903ac6 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_6451664903ac6 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_6451664903ac6 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_6451664903ac6 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_6451664903ac6 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_infobox_6451664903d72 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903d72 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903d72 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_6451664903d72 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_6451664903d72 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_6451664903d72 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_6451664903d72 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_6451664903d72:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664903d72 .infobox_wrapper,#softlab_infobox_6451664903d72 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_6451664903d72 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_6451664903d72 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_6451664903d72 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_6451664903d72 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_6451664903d72 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_infobox_6451664903fe1 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903fe1 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664903fe1 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_6451664903fe1 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_6451664903fe1 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_6451664903fe1 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_6451664903fe1 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_6451664903fe1:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664903fe1 .infobox_wrapper,#softlab_infobox_6451664903fe1 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_6451664903fe1 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_6451664903fe1 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_6451664903fe1 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_6451664903fe1 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_6451664903fe1 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_infobox_64516649042e4 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_64516649042e4 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_64516649042e4 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_64516649042e4 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_64516649042e4 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_64516649042e4 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_64516649042e4 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_64516649042e4:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_64516649042e4 .infobox_wrapper,#softlab_infobox_64516649042e4 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_64516649042e4 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_64516649042e4 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_64516649042e4 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_64516649042e4 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_64516649042e4 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_infobox_6451664904566 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664904566 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664904566 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_6451664904566 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_6451664904566 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_6451664904566 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_6451664904566 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_6451664904566:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664904566 .infobox_wrapper,#softlab_infobox_6451664904566 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_6451664904566 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_6451664904566 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_6451664904566 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_6451664904566 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_6451664904566 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_infobox_64516649047b9 .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_64516649047b9 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_64516649047b9 .infobox_icon_container{
+							background: -webkit-radial-gradient(100% 110%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background: radial-gradient(circle farthest-corner at 100% 110%, #5cd4ef 10%, #033c65 50%);
+						  }#softlab_infobox_64516649047b9 .infobox_icon_container:after{
+							content: '';
+							background: #033c65
+						  }#softlab_infobox_64516649047b9 .infobox_button{
+					color: #8b9baf;
+				  }#softlab_infobox_64516649047b9 .infobox_button:hover{
+					color: #6a4bc4;
+				  }#softlab_infobox_64516649047b9 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_64516649047b9:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_64516649047b9 .infobox_wrapper,#softlab_infobox_64516649047b9 .infobox_wrapper:after { padding-top: 28px !important;padding-right: 35px !important;padding-bottom: 24px !important;padding-left: 35px !important;border-radius: 30px !important;}#softlab_infobox_64516649047b9 .infobox_icon_container{ margin-top: 8px !important;border-radius: 50% !important; }#softlab_infobox_64516649047b9 .infobox_button { margin-top: 8px !important;border-radius: 50% !important; }@media (max-width: 480px) {
+					  #softlab_infobox_64516649047b9 .infobox_wrapper {
+						  padding: 20px !important;
+					  }
+				  }#softlab_infobox_64516649047b9 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_64516649047b9 .infobox_icon_container{box-shadow: 0px 9px 30px 0px rgba(109,75,196,0.4);}#softlab_img_layer_6451664904ba9 .img_layer_image_wrapper:nth-child(1) .img_layer_image {transition: all 600ms; -webkit-transition-delay: 0ms; -moz-transition-delay: 0ms; -o-transition-delay: 0ms; transition-delay: 0ms;}#softlab_img_layer_6451664904ba9 .img_layer_image_wrapper:nth-child(2) .img_layer_image {transition: all 600ms; -webkit-transition-delay: 400ms; -moz-transition-delay: 400ms; -o-transition-delay: 400ms; transition-delay: 400ms;}@media only screen and (max-width: 767px){
+					#softlab_spacer_6451664904dde .spacing_size{
+						display: none;
+					}					
+					#softlab_spacer_6451664904dde .spacing_size-tablet{
+						display: block;
+					}
+
+				}@media only screen and (max-width: 600px){
+					#softlab_spacer_6451664904dde .spacing_size{
+						display: none;
+					}					
+					#softlab_spacer_6451664904dde .spacing_size-mobile{
+						display: block;
+					}
+				}@media only screen and (max-width: 600px){
+					#softlab_spacer_6451664904ed2 .spacing_size{
+						display: none;
+					}					
+					#softlab_spacer_6451664904ed2 .spacing_size-tablet{
+						display: block;
+					}
+
+				}#softlab_infobox_6451664904f38 .infobox_icon{
+					color: #033c65;
+				  }#softlab_infobox_6451664904f38 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_6451664904f38 .infobox_icon_container{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664904f38:hover .infobox_icon_container{
+							background-color: #fb9d4f;
+						  }#softlab_infobox_6451664904f38 .infobox_icon_container{ margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important; }#softlab_infobox_6451664904f38 .infobox_icon_container{box-shadow: 0px 6px 13px 0px rgba(145,145,145,0.2);}#softlab_infobox_645166490516e .infobox_icon{
+					color: #033c65;
+				  }#softlab_infobox_645166490516e .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_645166490516e .infobox_icon_container{
+							background-color: #ffffff;
+						  }#softlab_infobox_645166490516e:hover .infobox_icon_container{
+							background-color: #fb9d4f;
+						  }#softlab_infobox_645166490516e .infobox_icon_container{ margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important; }#softlab_infobox_645166490516e .infobox_icon_container{box-shadow: 0px 6px 13px 0px rgba(145,145,145,0.2);}#softlab_infobox_64516649052e8 .infobox_icon{
+					color: #033c65;
+				  }#softlab_infobox_64516649052e8 .infobox_wrapper:hover .infobox_icon{
+					color: #ffffff;
+				  }#softlab_infobox_64516649052e8 .infobox_icon_container{
+							background-color: #ffffff;
+						  }#softlab_infobox_64516649052e8:hover .infobox_icon_container{
+							background-color: #fb9d4f;
+						  }#softlab_infobox_64516649052e8 .infobox_icon_container{ margin-top: 15px !important;margin-right: 30px !important;border-radius: 50% !important; }#softlab_infobox_64516649052e8 .infobox_icon_container{box-shadow: 0px 6px 13px 0px rgba(145,145,145,0.2);}#softlab_img_layer_6451664905b36 .img_layer_image_wrapper:nth-child(1) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 0ms; -moz-transition-delay: 0ms; -o-transition-delay: 0ms; transition-delay: 0ms;}#softlab_img_layer_6451664905b36 .img_layer_image_wrapper:nth-child(2) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 600ms; -moz-transition-delay: 600ms; -o-transition-delay: 600ms; transition-delay: 600ms;}#softlab_img_layer_6451664905b36 .img_layer_image_wrapper:nth-child(3) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 1200ms; -moz-transition-delay: 1200ms; -o-transition-delay: 1200ms; transition-delay: 1200ms;}#softlab_infobox_6451664905ef1 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_6451664905ef1:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_6451664905ef1 .infobox_wrapper,#softlab_infobox_6451664905ef1 .infobox_wrapper:after { margin-right: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}#softlab_infobox_6451664905ef1 .infobox_icon_container{ margin-right: 19px !important; }#softlab_infobox_6451664905ef1 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_64516649060b7 .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_64516649060b7:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_64516649060b7 .infobox_wrapper,#softlab_infobox_64516649060b7 .infobox_wrapper:after { margin-left: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}#softlab_infobox_64516649060b7 .infobox_icon_container{ margin-right: 19px !important; }#softlab_infobox_64516649060b7 .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_infobox_645166490624d .infobox_wrapper{
+							background-color: #ffffff;				
+						  }#softlab_infobox_645166490624d:hover .infobox_wrapper{
+							background-color: #ffffff;
+						  }#softlab_infobox_645166490624d .infobox_wrapper,#softlab_infobox_645166490624d .infobox_wrapper:after { margin-right: 12% !important;padding-top: 36px !important;padding-right: 30px !important;padding-bottom: 32px !important;padding-left: 40px !important;border-radius: 30px !important;}#softlab_infobox_645166490624d .infobox_icon_container{ margin-right: 19px !important; }#softlab_infobox_645166490624d .infobox_wrapper{box-shadow: 0px 15px 38px 0px rgba(0,0,0,0.1);}#softlab_img_layer_645166490754a .img_layer_image_wrapper:nth-child(1) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 0ms; -moz-transition-delay: 0ms; -o-transition-delay: 0ms; transition-delay: 0ms;}#softlab_img_layer_645166490754a .img_layer_image_wrapper:nth-child(2) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 600ms; -moz-transition-delay: 600ms; -o-transition-delay: 600ms; transition-delay: 600ms;}#softlab_img_layer_645166490754a .img_layer_image_wrapper:nth-child(3) .img_layer_image {transition: all 800ms; -webkit-transition-delay: 1200ms; -moz-transition-delay: 1200ms; -o-transition-delay: 1200ms; transition-delay: 1200ms;}@media only screen and (max-width: 1199px){
+					#softlab_spacer_6451664907ba6 .spacing_size{
+						display: none;
+					}				
+					#softlab_spacer_6451664907ba6 .spacing_size-desktops{
+						display: block;
+					}
+
+				}@media only screen and (max-width: 1199px){
+					#softlab_spacer_6451664907dcb .spacing_size{
+						display: none;
+					}				
+					#softlab_spacer_6451664907dcb .spacing_size-desktops{
+						display: block;
+					}
+
+				}@media only screen and (max-width: 991px){
+					#softlab_spacer_6451664907dcb .spacing_size{
+						display: none;
+					}					
+					#softlab_spacer_6451664907dcb .spacing_size-tablet{
+						display: block;
+					}
+
+				}#softlab_button_6451664907fde .wgl_button_link { color: #161616; }#softlab_button_6451664907fde .wgl_button_link:hover { color: #ffffff; }#softlab_button_6451664907fde .wgl_button_link:before { background-image: -webkit-radial-gradient(100% 150%, circle farthest-corner, #ffffff 10%, #ffffff 50%);background-image: radial-gradient(circle farthest-corner at 100% 150%, #ffffff 10%, #ffffff 50%); }#softlab_button_6451664907fde .wgl_button_link:after { background-image: -webkit-radial-gradient(100% 150%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background-image: radial-gradient(circle farthest-corner at 100% 150%, #5cd4ef 10%, #033c65 50%); }#softlab_button_6451664907fde .btn_border_gradient:before { background-image: -webkit-radial-gradient(100% 150%, circle farthest-corner, #033c65 10%, #033c65 50%);background-image: radial-gradient(circle farthest-corner at 100% 150%, #033c65 10%, #033c65 50%); }#softlab_button_6451664907fde .btn_border_gradient:after { background-image: -webkit-radial-gradient(100% 150%, circle farthest-corner, #5cd4ef 10%, #033c65 50%);background-image: radial-gradient(circle farthest-corner at 100% 150%, #5cd4ef 10%, #033c65 50%); }#softlab_button_6451664907fde a { box-shadow: none }#softlab_button_6451664907fde a:hover { box-shadow: 0px 9px 30px 0 rgba(3,60,101,0.4) }#softlab_soc_icon_wrap_6451664908065{
+                      display: inline-block;
+                  }</span>
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+			<script type="text/javascript">
+		function genesisBlocksShare( url, title, w, h ){
+			var left = ( window.innerWidth / 2 )-( w / 2 );
+			var top  = ( window.innerHeight / 2 )-( h / 2 );
+			return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+		}
+	</script>
+	<script type="text/html" id="wpb-modifications"></script><script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<link href="https://fonts.googleapis.com/css?family=Poppins:700%2C400%2C500%7COpen+Sans:400%7CRoboto:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+			<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="https://trualliant.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" media="all" />
+			<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="https://trualliant.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
+<link rel='stylesheet' id='vc_animate-css-css' href='https://trualliant.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://trualliant.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		.rev-btn.rev-withicon i{transition:0s !important; margin-left:0 !important}.rev-btn{transition:400ms !important}
+</style>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/trualliant.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.3' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.3' defer async id='revmin-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/genesis-blocks/dist/assets/js/dismiss.js?ver=1679583906' id='genesis-blocks-dismiss-js-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/theme-addons.min.js?ver=1.3.4' id='softlab-theme-addons-js'></script>
+<script type='text/javascript' id='softlab-theme-js-extra'>
+/* <![CDATA[ */
+var wgl_core = {"ajaxurl":"https:\/\/trualliant.com\/wp-admin\/admin-ajax.php","slickSlider":"https:\/\/trualliant.com\/wp-content\/themes\/softlab\/js\/slick.min.js","JarallaxPlugin":"https:\/\/trualliant.com\/wp-content\/themes\/softlab\/js\/jarallax-video.min.js","JarallaxPluginVideo":"https:\/\/trualliant.com\/wp-content\/themes\/softlab\/js\/jarallax.min.js","like":"Like","unlike":"Unlike"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/theme.js?ver=1.3.4' id='softlab-theme-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/jquery.flexslider.min.js?ver=2.7.2' id='flexslider-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.10.0' id='vc_waypoints-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/jquery.appear.js?ver=6.2' id='appear-js'></script>
+<script type='text/javascript' src='https://trualliant.com/wp-content/themes/softlab/js/jquery.paroller.min.js?ver=6.2' id='parallax-js'></script>
+<script>
+		var	tpj = jQuery;
+		var	revapi2;
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider21"] = {once: RS_MODULES.modules["revslider21"]!==undefined ? RS_MODULES.modules["revslider21"].once : undefined, init:function() {
+			window.revapi2 = window.revapi2===undefined || window.revapi2===null || window.revapi2.length===0  ? document.getElementById("rev_slider_2_1") : window.revapi2;
+			if(window.revapi2 === null || window.revapi2 === undefined || window.revapi2.length==0) { window.revapi2initTry = window.revapi2initTry ===undefined ? 0 : window.revapi2initTry+1; if (window.revapi2initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider21"].init()}); return;}
+			window.revapi2 = jQuery(window.revapi2);
+			if(window.revapi2.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_2_1"); return;}
+			revapi2.revolutionInit({
+					revapi:"revapi2",
+					DPR:"dpr",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1024,778,778",
+					gridwidth:"1200,1024,778,778",
+					gridheight:"980,850,700,700",
+					lazyType:"smart",
+					perspective:600,
+					perspectiveType:"local",
+					editorheight:"980,850,700,550",
+					responsiveLevels:"1240,1024,778,778",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						onHoverStop:false
+					},
+					parallax: {
+						levels:[1,2,3,4,5,6,7,8,9,10,47,48,49,50,51,55],
+						type:"mouse",
+						origo:"slidercenter",
+						speedbg:200,
+						speedls:200
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+<script type="text/javascript" id="wgl_custom_footer_js"></script>    
+</body>
+</html>
